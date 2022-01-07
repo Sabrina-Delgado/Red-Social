@@ -1,0 +1,8 @@
+Proyecto Red Social
+
+repo: 
+https://github.com/Sabrina-Delgado/Red-Social.git
+tokem:
+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
+git:
+git remote add origin https://SabrinaDelgado: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@github.com/Sabrina-Delgado/Red-Social.git
