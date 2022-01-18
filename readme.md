@@ -39,4 +39,4 @@ Proyecto de Desarrolador:
     Creadoras:
     Sabrina Delgado - https://github.com/Sabrina-Delgado
     Estefany Chavez - 
-    Yadira Quesnay - 
+    Yadira Quesnay - https://github.com/Bquesnayadira
