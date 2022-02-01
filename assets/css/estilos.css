@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(182, 205, 235);
+    width: 98%;
+    margin-left: 0;
+}
+
+.div-cards-izquierda {
+    width: 28%;
+    margin-top: 10%;
+    margin-left: 2%;
+    position: fixed;
+    margin: 1fr;
+    background-color: burlywood;
+}
+.div-usuario-card {
+    width: 80%;
+    height:90%;
+    background-color: cyan;
+    margin: 2vw;
+}
+
+.div-derecho-posts {
+    width: 70%;
+    height: 5%;
+    background-color: chartreuse;
+    margin-left: 30%;
+    margin-top: 7%;
+}
+
+.div-crear-publicacion{
+    width: 90%;
+    height: 5%;
+    background-color: rgb(106, 96, 150);
+    font-size: 80%;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+.div-cuenta{
+    background-color: rgb(140, 174, 224);
+    width: 12vw;
+
+}
+
+.card-info{
+    background-color: rgb(192, 171, 241);
+    text-align: justify;
+    font-size: 69%;
+    
+}
+
+
+/*Barra de menu Responsive*/
+
+.barra-inicial-home{
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+    margin-left: 0;
+    margin-bottom: 2%;
+}
