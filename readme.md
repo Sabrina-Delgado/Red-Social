@@ -25,18 +25,27 @@ Red Social:
             
 Proyecto de Desarrolador:
     Comentarios:
-    - 
-    - 
-    - 
-    - 
+    - Tuvimos problemas cuando juntamos todas  nuestras partes, por motivo de jerarquia en los     llamados del HTML.
+    - Pudimos completar correctamente el firebase y todos sus pasos, sim embargo tuvimos complicaciones con el fribase storage, no cargaban las reglas para poder cambiarlas, le pedimos ayuda al profesor , el quien nos pudo ayudar y modificar las reglas
+    
 
 
-    Link del Layout:
-        https://drive.google.com/folderview?id=1snrKwinpkhtPvuHzpFAWNB-owIzN2p7E
-        
+    -Link del Layout Baja Calidad:
+        https://drive.google.com/drive/folders/1szmEtyhkR62qxmJcMkLZbOymPlZz65vi?usp=sharing
+    -Link de Layout Alta Calidad:
+        https://drive.google.com/drive/folders/1t3QjH5ZtyAIlSPsaZN0UpqLFW-kcnKdp?usp=sharing
+    -Link del Paso a paso de nuestro proceso:
+        https://drive.google.com/drive/folders/1Tv9Qo5ZW1OXEwi8zOoQm58JnKQ5QNgpH?usp=sharing
+    -Link de la reaccion de clientes(carpetas de grabacion):
+        https://drive.google.com/drive/folders/1KlNi0xKp1hFEFD78j4wPsJ_RfnGrCiTU?usp=sharing
+
+
     Encotraras nuestros prototipos de Alta y Baja calidad, Ademas de algunas versiones anteriores de We Solutions que se quedaron como prototipo unicamente, y otras ideas que no se implementarions en nuestra Red Social.
   
     Creadoras:
     Sabrina Delgado - https://github.com/Sabrina-Delgado
-    Estefany Chavez - 
+    Estefany Chavez - https://github.com/estefanych
     Yadira Quesnay - https://github.com/Bquesnayadira
+    Nicole Huaman - https://github.com/NicoleHuaman
+    Jimena Aldunate - https://github.com/Jimena-Aldunate
+
