@@ -29,7 +29,10 @@ Proyecto de Desarrolador:
     - Pudimos completar correctamente el firebase y todos sus pasos, sim embargo tuvimos complicaciones con el fribase storage, no cargaban las reglas para poder cambiarlas, le pedimos ayuda al profesor , el quien nos pudo ayudar y modificar las reglas
     
 
-
+    -Link de la pagina Codigo: (en el que teencuentras ahora)
+        https://github.com/Sabrina-Delgado/Red-Social.git
+    -Link de la pagina Interactiva:
+        https://sabrina-delgado.github.io/Red-Social/
     -Link del Layout Baja Calidad:
         https://drive.google.com/drive/folders/1szmEtyhkR62qxmJcMkLZbOymPlZz65vi?usp=sharing
     -Link de Layout Alta Calidad:
